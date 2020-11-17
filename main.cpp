@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    int todo[6];
+    string todo[6];
 
     for(int i = 0; i < 5; i++)
     {
